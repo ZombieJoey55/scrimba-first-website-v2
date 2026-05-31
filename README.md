@@ -1,4 +1,4 @@
-This is the **Updated** project for the **Introduction** -> **Your First App** module.
+This is the **updated** project for the **HTML and CSS Fundamentals** -> **Intro to HTML** module.
 
 # Getting Started
 
