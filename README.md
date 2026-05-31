@@ -1,4 +1,4 @@
-This is the **original** project for the **Introduction** -> **Your First App** module.
+This is the **Updated** project for the **Introduction** -> **Your First App** module.
 
 # Getting Started
 
